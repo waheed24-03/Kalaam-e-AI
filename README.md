@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./Kalaam-e-AI Logo.png" alt="Kalaam-e-AI Logo" width="150" />
 
 # ✒️ Kalaam-e-AI  
 **Your AI-Powered Poetry Companion**  
@@ -182,4 +181,5 @@ You can easily customize the application to fit your needs:
 -   **AI Model**: Change the `model` variable in the same API file to use a different Ollama model you have downloaded (e.g., `llama3.2:1b`).
 
 -   **Styling**: Adjust colors, fonts, and layout directly in `app/globals.css` and by modifying the Tailwind CSS classes in `app/page.tsx`.
+
 
