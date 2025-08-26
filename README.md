@@ -1,9 +1,20 @@
-# ✒️ Poetry Companion AI
+<div align="center">
+  <img src="./Kalaam-e-AI Logo.png" alt="Kalaam-e-AI Logo" width="150" />
 
-An AI-powered creative partner designed to help poets, lyricists, and writers overcome creative blocks and explore new poetic avenues. Get instant suggestions for rhymes, continuations, and styles in both English and Hinglish/Urdish.
+# ✒️ Kalaam-e-AI  
+**Your AI-Powered Poetry Companion**  
+An AI-powered creative partner designed to help poets, lyricists, and writers overcome creative blocks and explore new poetic avenues.
+</div>
 
-[![Poetry Companion Output](/Output.png)
+---
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="./nextjs-app/public/Output.png" alt="Kalaam-e-AI Interface" width="700" />
+</p>
+
+---
 
 ## ✨ Features
 
@@ -171,3 +182,4 @@ You can easily customize the application to fit your needs:
 -   **AI Model**: Change the `model` variable in the same API file to use a different Ollama model you have downloaded (e.g., `llama3.2:1b`).
 
 -   **Styling**: Adjust colors, fonts, and layout directly in `app/globals.css` and by modifying the Tailwind CSS classes in `app/page.tsx`.
+
