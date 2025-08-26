@@ -2,7 +2,8 @@
 
 An AI-powered creative partner designed to help poets, lyricists, and writers overcome creative blocks and explore new poetic avenues. Get instant suggestions for rhymes, continuations, and styles in both English and Hinglish/Urdish.
 
-[Image of the Poetry Companion AI interface]
+[![Poetry Companion Output](/Output.png)
+
 
 ## ✨ Features
 
@@ -168,4 +169,5 @@ You can easily customize the application to fit your needs:
 
 -   **AI Prompts**: Modify the prompts in `app/api/poetry-companion/route.ts` to change the AI's personality, tone, or the structure of its output.
 -   **AI Model**: Change the `model` variable in the same API file to use a different Ollama model you have downloaded (e.g., `llama3.2:1b`).
+
 -   **Styling**: Adjust colors, fonts, and layout directly in `app/globals.css` and by modifying the Tailwind CSS classes in `app/page.tsx`.
