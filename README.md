@@ -1,9 +1,9 @@
-<div align="center">
+
 
 # ✒️ Kalaam-e-AI  
 **Your AI-Powered Poetry Companion**  
 An AI-powered creative partner designed to help poets, lyricists, and writers overcome creative blocks and explore new poetic avenues.
-</div>
+
 
 ---
 
@@ -187,6 +187,7 @@ You can easily customize the application to fit your needs:
 -  Data Science Enthusiast | Python Developer | Automation Explorer
 -  📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
 - 🐙 GitHub: waheed24-03
+
 
 
 
