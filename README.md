@@ -182,11 +182,18 @@ You can easily customize the application to fit your needs:
 
 -   **Styling**: Adjust colors, fonts, and layout directly in `app/globals.css` and by modifying the Tailwind CSS classes in `app/page.tsx`.
 
+ ## Acknowledgements
+
+- BlockseBlock
+- Openxai
+  
+
   ## 👤 Author
 -  Syed Abdul Waheed
 -  Data Science Enthusiast | Python Developer | Automation Explorer
 -  📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
 - 🐙 GitHub: waheed24-03
+
 
 
 
