@@ -124,7 +124,7 @@ export default function PoetryCompanionPage() {
           </button>
         </form>
 
-        {/* Result Display */}
+        {/* Display Result */}
         {result && (
           <div className="mt-10 pt-6 border-t border-stone-700">
             <h2 className="text-2xl font-serif mb-4 text-[#d4af37]">AI ki Takhleeq <span className="text-stone-500 text-xl">(AI's Creation)</span></h2>
@@ -137,3 +137,4 @@ export default function PoetryCompanionPage() {
     </div>
   )
 }
+
