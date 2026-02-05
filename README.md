@@ -181,12 +181,11 @@ You can easily customize the application to fit your needs:
 -   **AI Model**: Change the `model` variable in the same API file to use a different Ollama model you have downloaded (e.g., `llama3.2:1b`).
 
 -   **Styling**: Adjust colors, fonts, and layout directly in `app/globals.css` and by modifying the Tailwind CSS classes in `app/page.tsx`.
-
+------
 ## Acknowledgements
 
-- BlockseBlock
 - Openxai
-  
+---------
 
   ## 👤 Author
 -  Syed Abdul Waheed
@@ -195,6 +194,7 @@ You can easily customize the application to fit your needs:
 - 🐙 GitHub: waheed24-03
 
 
+------
 
 
 
